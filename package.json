@@ -1,0 +1,26 @@
+{
+  "name": "zoom_clone",
+  "version": "1.0.0",
+  "description": "nodejs_zoom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cms-ai/zoom_clone-with-nodejs.git"
+  },
+  "author": "TCA_QB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cms-ai/zoom_clone-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/cms-ai/zoom_clone-with-nodejs",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3",
+    "uuid": "^8.3.1"
+  }
+}
